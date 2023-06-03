@@ -56,5 +56,10 @@ p {
 }
 
 .media-icons{
+	display:flex;
 	float:right;
+}
+
+.link-boxes{
+	display:flex;
 }
