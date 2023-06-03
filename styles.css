@@ -57,7 +57,8 @@ p {
 
 .media-icons{
 	display:flex;
-	float:right;
+	float:right
+	
 }
 
 .link-boxes{
